@@ -16,6 +16,9 @@
 # Executáveis C++
 *.exe
 
+# Java bytecode
+*.class
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
