@@ -12,7 +12,7 @@
 
 | Nº | Problema | Linguagem | Tópicos | Nível |
 |----|----------|-----------|---------|--------|
-| 1001 | Extremely Basic | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/andersonaires-cc/beecrowd/tree/main/1001-extremely-basic/cpp) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/andersonaires-cc/beecrowd/tree/main/1001-extremely-basic/java) | ![Entrada/Saída](https://img.shields.io/badge/Input%2FOutput-2ECC71?style=flat) ![Operações Básicas](https://img.shields.io/badge/Math-3498DB?style=flat) | Iniciante |
+| 1001 | Extremely Basic | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/andersonaires-cc/beecrowd/tree/main/problems/1000/cpp) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/andersonaires-cc/beecrowd/tree/main/problems/1000/java) | ![Entrada/Saída](https://img.shields.io/badge/Input%2FOutput-2ECC71?style=flat) ![Operações Básicas](https://img.shields.io/badge/Math-3498DB?style=flat) | Iniciante |
 
 ---
 
